@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jintin.pm25.tw",
+    "sha256_cert_fingerprints":
+    ["F9:9B:EA:10:2C:44:C5:A9:4C:BD:DF:4A:E8:BC:B2:28:CC:D7:1B:9F:DD:00:72:76:F2:E5:FD:15:37:B1:2F:5D"]
+  }
+}]
